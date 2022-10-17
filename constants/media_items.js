@@ -35,7 +35,7 @@ const MEDIA_ITEMS = {
     PHOTO: 'PHOTO',
     VIDEO: 'VIDEO',
   },
-  FEATURE: {
+  FEATURE_TYPE: {
     FAVORITES: 'FAVORITES',
     NONE: 'NONE',
   },
