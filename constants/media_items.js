@@ -35,6 +35,10 @@ const MEDIA_ITEMS = {
     PHOTO: 'PHOTO',
     VIDEO: 'VIDEO',
   },
+  FEATURE: {
+    FAVORITES: 'FAVORITES',
+    NONE: 'NONE',
+  },
 };
 
 module.exports = MEDIA_ITEMS;
